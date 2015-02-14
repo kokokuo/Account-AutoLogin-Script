@@ -31,4 +31,3 @@ Sample :
 4.If you want to modify the read file name and path, Please open the **"Account_AutoLogin.vbs"** and change the `MAPPING_FILE_SOURCE_PATH` string value.
 
 
-By Eason Kuo (Yi-cheng Kuo) 20150214
